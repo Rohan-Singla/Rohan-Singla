@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Javascript and PHP **Building my portfolio**
   
-- You can visit my website to view my projects and know more about me https://rohan.infinityfree.app
+- You can visit my website to view my projects and know more about me [https://rohan.infinityfree.app](https://rohan.infinityfreeapp.com/)
 
 - 🌱 I’m currently learning Video Editing and MERN Stack **React,Next,MongoDB,Express**
 
