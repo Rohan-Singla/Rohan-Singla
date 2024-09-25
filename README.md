@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Singla</h1>
 <h3 align="center">Web Developer | Graphic Designer | Web3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-singla&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-singla" /> </p>
 
 - 🔭 I’m currently working on Radar Hackathon **DECENSAT**
 
