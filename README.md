@@ -12,14 +12,14 @@
 
 > A showcase of my latest work in Web Development, Blockchain and Design 
 
-### 🔗 [**Assurative**]
+### 💸 [**Assurative**]
 * 🚀 **Building a DeFi Startup**  
 * 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python ,  
 * 💰 Features: Payments, Wallets Integrations , Charts , Management Dashboard 
 
 ---
 
-### 🌐 [**Token Launchpad**](https://rohan-token-launchpad.vercel.app/)  
+### 🚀 [**Token Launchpad**](https://rohan-token-launchpad.vercel.app/)  
 * 🎯 Create Your Custom Token , Transfer Tokens , Wallet Integration
 * ⚡ Integrated Framer Motion animations , ReactJS , Tailwind CSS , SPL Library , Solana
 
