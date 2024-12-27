@@ -10,33 +10,39 @@
 
 ## 🌌 Recent Projects  
 
-> A showcase of my latest work in Web Development, Blockchain, and beyond.  
+> A showcase of my latest work in Web Development, Blockchain and Design 
 
-### 🔗 [**Assurative**](https://github.com/your-repo-link)  
-* 🚀 **DeFi MVP built for Sigma Wormhole Hackathon**  
-* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Wallet Integration  
-* 💰 Features: Payments, Wallet Connections  
-
----
-
-### 🌐 [**Token Launchpad**](https://github.com/your-repo-link)  
-* 🎯 Create and manage custom SPL tokens  
-* ⚡ Integrated Framer Motion animations  
-* 🌊 Liquidity pool support via Raydium (coming soon!)  
+### 🔗 [**Assurative**]
+* 🚀 **Building a DeFi Startup**  
+* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python ,  
+* 💰 Features: Payments, Wallets Integrations , Charts , Management Dashboard 
 
 ---
 
-### 🧠 [**DualBrain**](https://github.com/your-repo-link)  
-* 🛠️ Built with MERN Stack + TypeScript  
-* 🗂️ Centralizes content from Twitter, YouTube, and Google Docs  
-* 🎨 Tailwind CSS for a sleek UI  
+### 🌐 [**Token Launchpad**](https://rohan-token-launchpad.vercel.app/)  
+* 🎯 Create Your Custom Token , Transfer Tokens , Wallet Integration
+* ⚡ Integrated Framer Motion animations , ReactJS , Tailwind CSS , SPL Library , Solana
 
 ---
 
-### ⏱️ [**Timer App**](https://github.com/your-repo-link)  
-* 🕒 Fully editable with start, pause, and reset functionality  
-* 🌀 Leveraged React's lifecycle methods  
+### 🌐 [**Wallet Adapter**](https://rohan-wallet-adapter.vercel.app/)  
+* 🚀 Generate ETH and SOL wallets , Airdrop SOL and Send Transactions
+* ⚡ Integrated Framer Motion animations , ReactJS , Tailwind CSS , @web3js , ethers , Wallets
 
 ---
 
-🚀 Check out more of my work [here](https://github.com/your-profile-link).  
+### 🧠 [**DualBrain**]
+* 🛠️ Building a Second Brain Application to Manage Tasks and store later Todo Tasks  
+* 🗂️ Centralizes content from Twitter, YouTube URL's and Document . 
+* 🎨 Tailwind CSS , Framer Motion , MERN Stack
+
+---
+
+### ⏱️ [**Mini Apps**](https://rohan-mini-apps.vercel.app/)  
+* Includes 3 Mini Apps a TodoApp , Timer App , Random Users
+* I have created useful features for each App 
+* ReactJS , Framer Motion , Tailwind CSS
+
+---
+
+🚀 Check out more of my work [here](https://x.com/rohanBuilds).  
