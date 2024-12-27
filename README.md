@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with 456 Ip<br>👯 I’m open to any collaborations and learning opportunities<br>🌱 I’m currently learning Web3 , AI , MERN<br>⚡ Fun fact : I am also a Graphic Designer , Video Editor and Digital Marketer
+<h3><p>🔭 I’m currently working with 456 Ip<br>👯 I’m open to any collaborations and learning opportunities<br>🌱 I’m currently learning Web3 , AI , MERN<br>⚡ Fun fact : I am also a Graphic Designer , Video Editor and Digital Marketer </p> </h1>
 
 
 ## 🌐 Socials:
