@@ -31,10 +31,10 @@
 
 ---
 
-### 🧠 [**DualBrain**]
-* 🛠️ Building a Second Brain Application to Manage Tasks and store later Todo Tasks  
-* 🗂️ Centralizes content from Twitter, YouTube URL's and Document . 
-* 🎨 Tailwind CSS , Framer Motion , MERN Stack
+### 🧠 [**Chatify**]
+* 🛠️ Building a Chat Application to allow users to chat with each other 
+* 🗂️ custom public and private chat rooms , websockets
+* 🎨 Tailwind CSS , Framer Motion , React m Typescript , Socket.io
 
 ---
 
