@@ -10,14 +10,14 @@
 
 ## 🌌 Recent Projects  
 
-> A showcase of my latest work in Web Development, Blockchain and Design 
-
----
+> A showcase of my latest Projects in Web Development, Blockchain and Design 
 
 ### 🧠 [**ApplyNest**](https://github.com/Rohan-Singla/ApplyNest)
 * 🛠️ Building a Job Application Network to help people organize their Job Search 
 * 🗂️ Organized workflow, Reminders , calendars
 * 🎨 NextJS,Tailwind,Shadcn,Typescript,Prisma,Postgres
+
+---
 
 ### 💸 [**Assurative**]
 * 🚀 **Building a DeFi Startup MVP**  
