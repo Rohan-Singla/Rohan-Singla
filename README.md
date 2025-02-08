@@ -12,9 +12,16 @@
 
 > A showcase of my latest work in Web Development, Blockchain and Design 
 
+---
+
+### 🧠 [**ApplyNest**](https://github.com/Rohan-Singla/ApplyNest)
+* 🛠️ Building a Job Application Network to help people organize their Job Search 
+* 🗂️ Organized workflow, Reminders , calendars
+* 🎨 NextJS,Tailwind,Shadcn,Typescript,Prisma,Postgres
+
 ### 💸 [**Assurative**]
-* 🚀 **Building a DeFi Startup**  
-* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python ,  
+* 🚀 **Building a DeFi Startup MVP**  
+* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python 
 * 💰 Features: Payments, Wallets Integrations , Charts , Management Dashboard 
 
 ---
@@ -28,13 +35,6 @@
 ### 🌐 [**Wallet Adapter**](https://rohan-wallet-adapter.vercel.app/)  
 * 🚀 Generate ETH and SOL wallets , Airdrop SOL and Send Transactions
 * ⚡ Integrated Framer Motion animations , ReactJS , Tailwind CSS , @web3js , ethers , Wallets
-
----
-
-### 🧠 [**Chatify**]
-* 🛠️ Building a Chat Application to allow users to chat with each other 
-* 🗂️ custom public and private chat rooms , websockets
-* 🎨 Tailwind CSS , Framer Motion , React m Typescript , Socket.io
 
 ---
 
