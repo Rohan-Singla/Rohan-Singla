@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with 456 Ip<br>👯 I’m open to any collaborations and learning opportunities<br>🌱 I’m currently learning Web3 , AI , MERN<br>⚡ Fun fact : I am also a Graphic Designer , Video Editor and Digital Marketer
+🔭 I’m currently working with 456 Ip<br>👯 I’m open to any collaborations and learning opportunities<br>🌱 I’m currently learning Rust, DevOps<br>⚡ Fun fact : I am also a Designer , Video Editor and Digital Marketer
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ### 🧠 [**ApplyNest**](https://github.com/Rohan-Singla/ApplyNest)
 * 🛠️ Building a Job Application Network to help people organize their Job Search 
 * 🗂️ Organized workflow, Reminders , calendars
-* 🎨 NextJS,Tailwind,Shadcn,Typescript,Prisma,Postgres
+* 🎨 NextJS,Tailwind,Shadcn,Typescript,Drizzle,Postgres, Zustand
 
 ---
 
