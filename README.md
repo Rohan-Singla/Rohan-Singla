@@ -38,11 +38,4 @@
 
 ---
 
-### ⏱️ [**Mini Apps**](https://rohan-mini-apps.vercel.app/)  
-* Includes 3 Mini Apps a TodoApp , Timer App , Random Users
-* I have created useful features for each App 
-* ReactJS , Framer Motion , Tailwind CSS
-
----
-
 🚀 Check out more of my work [here](https://x.com/rohanBuilds).  
