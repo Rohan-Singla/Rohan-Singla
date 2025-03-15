@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with 456 Ip<br>👯 I’m open to any collaborations and learning opportunities<br>🌱 I’m currently learning Rust, DevOps<br>⚡ Fun fact : I am also a Designer , Video Editor and Digital Marketer
+🔭 I'm Currently working as a Frontend and Web3 Dev for 456 IP <br>👯 I’m open to any opportunities,hackathons etc.<br> ⚡ Fun fact : I am also a Designer , Video Editing Geek 🌱<br> Got a project ? Feel free to reach out to me via my socials 
 
 
 ## 🌐 Socials:
@@ -10,16 +10,25 @@
 
 ## 🌌 Recent Projects  
 
-> A showcase of my latest Projects in Web Development, Blockchain and Design 
-
-### 🧠 [**ApplyNest**](https://github.com/Rohan-Singla/ApplyNest)
-* 🛠️ Building a Job Application Network to help people organize their Job Search 
-* 🗂️ Organized workflow, Reminders , calendars
-* 🎨 NextJS,Tailwind,Shadcn,Typescript,Drizzle,Postgres, Zustand
+> A showcase of my latest Projects in Web Development, Blockchain and Design
 
 ---
 
-### 💸 [**Assurative**]
+### 🧠 [**SketchFlow**](https://github.com/Rohan-Singla/SketchFlow)
+* 🛠️ Building a tool to get your ideas from your mind to drawing easily similar to excalidraw
+* 🗂️ Draw Shapes, AI features, Different colors
+* 🎨 WebSockets,Postgres,Drizzle,NextJS,Typescript,Tailwind
+
+---
+
+### 🧠 [**ApturaX**](https://apturax.tech/)
+* 🛠️ Built a web3 twitter bot for MetaMove Hack in social track in Social track with my team
+* 🗂️ Web3 Assistance , Multiple API's , News , X Bot @apturax
+* 🎨 NextJS,Tailwind,API's,Metamove Agent Kit,Eliza OS, Blockchain API's etc...
+
+---
+
+### 💸 **Assurative**
 * 🚀 **Building a DeFi Startup MVP**  
 * 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python 
 * 💰 Features: Payments, Wallets Integrations , Charts , Management Dashboard 
@@ -38,4 +47,4 @@
 
 ---
 
-🚀 Check out more of my work [here](https://x.com/rohanBuilds).  
+🚀 Got a Project ? Lets Get in Touch [here](https://linktr.ee/rohanBuilds).  
