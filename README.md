@@ -13,13 +13,6 @@ I am a Full Stack Web3 Dev currently working as a Frontend and Web3 Dev at 456 I
 
 ---
 
-### 🧠 [**SketchFlow**](https://github.com/Rohan-Singla/SketchFlow)
-* 🛠️ Building a tool to get your ideas from your mind to drawing easily similar to excalidraw
-* 🗂️ Draw Shapes, AI features, Different colors
-* 🎨 WebSockets,Postgres,Drizzle,NextJS,Typescript,Tailwind
-
----
-
 ### 🧠 [**ApturaX**](https://apturax.tech/)
 * 🛠️ Built a web3 twitter bot for MetaMove Hack in social track in Social track with my team
 * 🗂️ Web3 Assistance , Multiple API's , News , X Bot @apturax
@@ -29,7 +22,7 @@ I am a Full Stack Web3 Dev currently working as a Frontend and Web3 Dev at 456 I
 
 ### 💸 **Assurative**
 * 🚀 **Building a DeFi Startup MVP**  
-* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python 
+* 🔧 Tech Stack: Next.js, Tailwind CSS, TypeScript, Python , Tanstack Query , Zustand
 * 💰 Features: Payments, Wallets Integrations , Charts , Management Dashboard 
 
 ---
