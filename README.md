@@ -9,6 +9,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| [MusicValue](https://github.com/Rohan-Singla/MusicValue) | Back the music you believe in. Earn when it wins - on Solana | Typescript , Rust , Anchor , Solana |
 | [p402](https://github.com/Rohan-Singla/p402) | Private x402 SDK enabling private API monetization on Solana | Typescript , Privacy Cash SDK , Solana |
 | [Axon](https://github.com/Rohan-Singla/Axon) | A micropayments solution building using solana to help small miners of bitcoin. | Rust , Typescript , Zeus Kit , ClickhouseDB |
 | [Turbine Builders](https://github.com/Rohan-Singla/Turbine-Async-Builders) | Includes all the weekly assignments done by me while Turbine Builders Cohort | Anchor, Rust , Typescript |
